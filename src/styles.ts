@@ -8,6 +8,7 @@ const EstiloGlobal = createGlobalStyle`
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    list-style: none;
 
   }
 
